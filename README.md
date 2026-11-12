@@ -1,6 +1,6 @@
 # Ardian
 
-Applied AI Engineer in Depok, Indonesia, and co-founder & CTO of Avagenc. I build agentic apps and the infrastructure AI agents run on (sessions, memory, retrieval, tools, and multi-agent orchestration) in Go on Google ADK, smart home systems on Tuya, and full-stack web and iOS apps.
+Applied AI Engineer in Depok, Indonesia, and co-founder & CTO of [Avagenc](https://github.com/avagenc). I build agentic apps and the infrastructure AI agents run on (sessions, memory, retrieval, tools, and multi-agent orchestration) in Go on Google ADK, smart home systems on Tuya, and full-stack web and iOS apps.
 
 - 20+ services shipped with CI/CD
 - 1 multi-agent personal assistant and 4 stateless chat agents on Google Cloud Run
@@ -9,4 +9,4 @@ Applied AI Engineer in Depok, Indonesia, and co-founder & CTO of Avagenc. I buil
 
 Open to part-time and freelance work, remote worldwide or hybrid around Jakarta.
 
-Portfolio: https://trueardian.com · Email: ardian@trueardian.com
+Portfolio site: https://trueardian.com · Email: ardian@trueardian.com
