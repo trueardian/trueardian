@@ -7,6 +7,6 @@ Applied AI Engineer in Depok, Indonesia, and co-founder & CTO of [Avagenc](https
 - Smart home systems for 3 towers and 1,000+ units
 - 7 open-source Go libraries at go.trueardian.com
 
-Open to part-time and freelance work, remote worldwide or hybrid around Jakarta.
+Accepting part-time and freelance offers, remote worldwide or hybrid around Jakarta.
 
 Portfolio site: https://trueardian.com · Email: ardian@trueardian.com
