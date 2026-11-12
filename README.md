@@ -9,4 +9,4 @@ Applied AI Engineer in Depok, Indonesia, and co-founder & CTO of [Avagenc](https
 
 Accepting part-time and freelance offers, remote worldwide or hybrid around Jakarta.
 
-Portfolio site: https://trueardian.com · Email: ardian@trueardian.com
+Portfolio site: [trueardian.com](https://trueardian.com) · Email: ardian@trueardian.com
