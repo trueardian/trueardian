@@ -1,6 +1,6 @@
 # Ardian
 
-Applied AI Engineer & Full Stack Engineer in Depok, Indonesia, co-founder & CTO of [Avagenc](https://github.com/avagenc), and founder & CTO of [Waktumu](https://waktumu.com). I build agentic apps and systems, along with the infrastructure AI agents run on (sessions, memory, retrieval, tools, and multi-agent orchestration), in Go on Google ADK, and take them all the way to the product people use: Go backends, SvelteKit web apps, and SwiftUI iOS apps. I design systems that are cloud-native and serverless-first, which scale with demand without driving up the cloud bill, and keep data in a separate persistent layer, so nothing is lost if an instance fails.
+Applied AI Engineer & Full Stack Engineer in Depok, Indonesia, co-founder & CTO of [Avagenc](https://avagenc.com), and founder & CTO of [Waktumu](https://waktumu.com). I build agentic apps and systems, along with the infrastructure AI agents run on (sessions, memory, retrieval, tools, and multi-agent orchestration), in Go on Google ADK, and take them all the way to the product people use: Go backends, SvelteKit web apps, and SwiftUI iOS apps. I design systems that are cloud-native and serverless-first, which scale with demand without driving up the cloud bill, and keep data in a separate persistent layer, so nothing is lost if an instance fails.
 
 - 20+ services shipped, each deployed on every push through CI/CD
 - 1 multi-agent system of 4 stateless agents (a lead and 3 specialists) on Google Cloud Run
