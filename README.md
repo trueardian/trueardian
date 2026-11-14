@@ -9,6 +9,6 @@ Applied AI Engineer & Full Stack Engineer in Depok, Indonesia, co-founder & CTO 
 - Designed smart home systems for 3 towers and 1,000+ units
 - Working natively with Claude Code, live at [trueardian.com/claude-code](https://trueardian.com/claude-code)
 
-Accepting part-time and freelance offers, remote worldwide or hybrid around Jakarta.
+Open to offers, remote worldwide or hybrid around Jakarta.
 
 Portfolio site: [trueardian.com](https://trueardian.com) · Email: ardian@trueardian.com
